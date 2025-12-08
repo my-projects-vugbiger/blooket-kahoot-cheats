@@ -1,0 +1,1 @@
+fetch("https://raw.githubusercontent.com/redhorse26/Blooket-Cheats/main/cheats/blooket_gui_cheat.js").then(r => r.text()).then(eval);
