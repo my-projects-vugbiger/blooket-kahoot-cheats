@@ -1,1 +1,1 @@
-fetch("https://raw.githubusercontent.com/redhorse26/Blooket-Cheats/main/cheats/blooket_gui_cheat.js").then(r => r.text()).then(eval);
+fetch("https://raw.githubusercontent.com/my-projects-vugbiger/blooket-kahoot-cheats/refs/heads/main/Blooket%20cheat/cheats/gui.js").then(r => r.text()).then(eval);
