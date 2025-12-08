@@ -23,7 +23,7 @@ and copy all text.
 when done click ok.
 it will then load this gui and you are done
 <img width="2528" height="1557" alt="image" src="https://github.com/user-attachments/assets/19c0602f-1b87-40a2-bd26-d84fcb76081e" />
-
+somoe firewalls may block loadstring if so simply copy raw text
 
 # blooket and Kahoot cheats
 ## blooket
