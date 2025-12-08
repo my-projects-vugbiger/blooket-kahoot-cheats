@@ -7,4 +7,4 @@
 ###
 ###
 ## Kahoot
-```fetch("https://github.com/my-projects-vugbiger/blooket-kahoot-cheats/blob/main/Kahoot%20cheat/Cleaner-performKahack.user.js").then(r => r.text()).then(eval);```
+```fetch("").then(r => r.text()).then(eval);```
