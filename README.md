@@ -7,4 +7,4 @@
 ###
 ###
 ## Kahoot
-```fetch("").then(r => r.text()).then(eval);```
+```fetch("https://raw.githubusercontent.com/my-projects-vugbiger/blooket-kahoot-cheats/refs/heads/main/Kahoot%20cheat/KaHackNeonimproved.user.js").then(r => r.text()).then(eval);```
