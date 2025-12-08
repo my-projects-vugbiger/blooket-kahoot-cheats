@@ -1,3 +1,29 @@
+# how to use console
+step 1.
+open aplication
+step 2. do control shift i or whatever ur browser supports.
+screen should now look like this
+<img width="2473" height="1466" alt="image" src="https://github.com/user-attachments/assets/59c8dee3-ec82-4980-8dc3-97e2f6ecdf92" />
+if you get this error 
+<img width="829" height="176" alt="image" src="https://github.com/user-attachments/assets/da3a4679-362c-4b78-b63a-2106d2b7655d" />
+type - allow pasting.
+
+once you have done that copy loadstring eg ```fetch("https://raw.githubusercontent.com/my-projects-vugbiger/blooket-kahoot-cheats/refs/heads/main/Blooket%20cheat/cheats/gui.js").then(r => r.text()).then(eval);```
+then paste it into console like this
+<img width="883" height="605" alt="image" src="https://github.com/user-attachments/assets/37736746-782b-4a16-97a7-9f6f5a0a4993" />
+press enter
+a notificaion like this shoudl apear if youu are using blooket
+<img width="755" height="243" alt="image" src="https://github.com/user-attachments/assets/338fc257-5e78-42f2-bf67-1dfc43a57e93" />
+youu can click yes and it will load
+<img width="1031" height="407" alt="image" src="https://github.com/user-attachments/assets/e03228b0-bfb5-466a-a501-0d3e5e7932cf" />
+if it brings up this error which it does in game
+please redirectt to one of links at bottom eg
+https://github.com/my-projects-vugbiger/blooket-kahoot-cheats/blob/main/Blooket%20cheat/cheats/gui.js
+and copy all text.
+when done click ok.
+it will then load this gui and you are done
+<img width="2528" height="1557" alt="image" src="https://github.com/user-attachments/assets/19c0602f-1b87-40a2-bd26-d84fcb76081e" />
+
 
 # blooket and Kahoot cheats
 ## blooket
