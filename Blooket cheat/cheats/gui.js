@@ -325,7 +325,7 @@
                             display: "flex",
                             flexDirection: "column",
                         },
-                        innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%)">Cheats</span>',
+                        innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%)">Blooket Script</span>',
                     },
                     createElement("a", {
                         className: "bigButton",
