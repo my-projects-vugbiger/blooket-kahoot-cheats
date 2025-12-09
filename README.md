@@ -3,8 +3,8 @@
 
 
 supported websites =
-https://www.blooket.com
-https://kahoot.com
+####https://www.blooket.com
+####https://kahoot.com
 
 
 
