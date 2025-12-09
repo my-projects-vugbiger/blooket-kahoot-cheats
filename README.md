@@ -1,3 +1,14 @@
+# blooket and Kahoot cheats
+
+
+
+supported websites =
+https://www.blooket.com
+https://kahoot.com
+
+
+
+
 # how to use console
 step 1.
 open aplication
@@ -25,7 +36,7 @@ it will then load this gui and you are done
 <img width="2528" height="1557" alt="image" src="https://github.com/user-attachments/assets/19c0602f-1b87-40a2-bd26-d84fcb76081e" />
 somoe firewalls may block loadstring if so simply copy raw text
 
-# blooket and Kahoot cheats
+
 ## blooket
 ```fetch("https://raw.githubusercontent.com/my-projects-vugbiger/blooket-kahoot-cheats/refs/heads/main/Blooket%20cheat/cheats/gui.js").then(r => r.text()).then(eval);```
 <img width="2558" height="1597" alt="image" src="https://github.com/user-attachments/assets/dfcbf49b-d925-4950-9d65-b7819abcb094" />
