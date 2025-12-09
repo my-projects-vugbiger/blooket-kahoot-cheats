@@ -1,5 +1,6 @@
 # blooket cheats
-
+#### supported webpage
+https://www.blooket.com
 
 
 ## steps for installing
