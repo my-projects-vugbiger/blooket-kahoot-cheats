@@ -100,7 +100,7 @@
         
         const version = document.createElement("span");
         version.className = classes.version;
-        version.innerText = "05Konz - Blooket GUI " + versionName;
+        version.innerText = "Blooket cheat interface version " + versionName;
         guiTopBar.append(version);
         
         const controls = document.createElement("div");
@@ -3330,7 +3330,7 @@
         const codingCredits = document.createElement("ul");
         codingCredits.className = classes.codingCredits;
         
-        codingCredits.append(createCredit("GUI Design + Creation", "05Konz"));
+        codingCredits.append(createCredit("gui rework by rc"));
         codingCredits.append(createCredit("Anti-Suspend", "CryptoDude3"));
         codingCredits.append(createCredit("Blooket Cheats", 'gliz <i class="fas fa-long-arrow-alt-right"></i> Minesraft2 <i class="fas fa-long-arrow-alt-right"></i> 05Konz'));
         
@@ -3909,6 +3909,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("It seems the GitHub is either blocked or down.\n\nIf it's NOT blocked, join the Discord server for updates\nhttps://discord.gg/jHjGrrdXP6\n(The cheat will still run after this alert)")
+        iframe.contentWindow.alert("would you like to load in)")
     }
 })();
