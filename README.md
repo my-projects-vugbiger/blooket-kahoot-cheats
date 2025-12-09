@@ -1,5 +1,6 @@
 # blooket cheats
 
+please download
 
 
 supported websites =
