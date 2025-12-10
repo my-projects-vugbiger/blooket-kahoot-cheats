@@ -1,0 +1,168 @@
+/* Base styling for the body and container */
+body {
+    width: 300px; /* Set a fixed width for the popup */
+    font-family: Arial, sans-serif;
+    background-color: #242435; /* Dark background */
+    color: #f0f0f0; /* Light text color */
+    margin: 0;
+    padding: 0;
+}
+
+.popup-container {
+    padding: 10px;
+}
+
+/* Header Styling */
+.popup-header {
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #4a4a6b;
+    margin-bottom: 15px;
+}
+
+/* --- NEW STYLE FOR THE ICON --- */
+.header-icon {
+    width: 48px; /* Standard icon size */
+    height: 48px;
+    display: block; /* Allows margin: auto to center it */
+    margin: 0 auto 10px auto; /* Centers the image and adds 10px space below it */
+    border-radius: 8px; /* Optional: smooths the corners */
+}
+/* ------------------------------- */
+
+.header-title {
+    font-size: 1.2em;
+    margin: 0;
+    color: #7aff8d; /* Bright color for the title */
+}
+
+/* Main Section Content */
+.popup-main p {
+    font-size: 0.9em;
+    color: #cccccc;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* Cheat Option Styling */
+.cheat-option {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px; /* Increased margin */
+    background-color: #2e2e46; /* Slightly lighter background for the rows */
+    border-radius: 5px;
+}
+
+.option-label {
+    font-size: 0.95em;
+}
+
+/* --- Run Button Styling --- */
+.run-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #7aff8d; /* Bright green */
+    color: #242435; /* Dark text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+    transition: background-color 0.2s, transform 0.1s;
+    margin-bottom: 10px; /* Space below the button */
+}
+
+.run-button:hover {
+    background-color: #5ceb72;
+}
+
+.run-button:active {
+    transform: translateY(1px);
+}
+
+/* Footer Styling */
+.popup-footer {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 0.8em;
+    color: #aaaaaa;
+    border-top: 1px solid #4a4a6b;
+    margin-top: 15px;
+}
+
+.info-button {
+    background: none;
+    border: 1px solid #4a4a6b;
+    color: #cccccc;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 5px;
+    font-size: 0.9em;
+    transition: background-color 0.2s;
+}
+
+.info-button:hover {
+    background-color: #383850;
+}
+
+
+/* --- Toggle Switch (Existing styles, ensuring they are present) --- */
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 24px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: 0.4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: 0.4s;
+}
+
+input:checked + .slider {
+    background-color: #7aff8d; /* Green when checked */
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #7aff8d;
+}
+
+input:checked + .slider:before {
+    transform: translateX(16px);
+}
+
+/* Rounded sliders */
+.slider.round {
+    border-radius: 24px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}

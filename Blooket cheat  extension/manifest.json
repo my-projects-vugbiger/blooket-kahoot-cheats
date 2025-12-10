@@ -1,0 +1,23 @@
+{
+  "name": "Blooket cheat gui",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A extension that loads a powerful blooket cheat gui",
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html",
+    "default_title": "Blooket Cheats"
+  },
+  "background": {
+    "service_worker": "background.js" 
+  },
+  "permissions": [
+    "storage",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://*.blooket.com/*",
+    "http://*.blooket.com/*"
+  ]
+}
