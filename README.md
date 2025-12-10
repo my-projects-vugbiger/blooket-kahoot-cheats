@@ -6,7 +6,8 @@ https://www.blooket.com
 ## steps for installing
 please download
 https://github.com/my-projects-vugbiger/Blooket-cheats/blob/main/Blooket%20cheat%20%20extension.crx
-
+this is a ad blocker that you can use
+https://github.com/my-projects-vugbiger/Blooket-cheats/blob/main/U%20blocker.crx
 once you have downloaded it open ur downloads folder
 it should look like
 ![alt text](instructions/image-1.png)
